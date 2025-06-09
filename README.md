@@ -11,7 +11,7 @@ How student sleep patterns and lifestyle affect academic performance.
 
 # Description:
 The project aims to analyze the sleep habits of university students and how it affects their daily lives. 
-It also takes into account lifestyle choices like screen time, exercise, and study hours, and how these activities affect their sleep. 
+The data also takes into account lifestyle choices like screen time, exercise, and study hours, and how these activities may affect their sleep. 
 Our goal is to find patterns that show how these factors are connected.
 
 # Link to dataset:
