@@ -2,7 +2,7 @@
 - Shivani Shivani
 - Andrews Owusu
 - Jai Vadhani
-- Kulwinder
+- Kulwinder singh
 
 
 # Project Topic:
