@@ -37,3 +37,8 @@ Collectively these datasets will enable us to ask questions like:
 - Does academic performance have anything to do with sleeping habits?
 
 Through these trends, we would like to emphasize the significance of sleep as the key to student well-being and academic results.
+
+# Description of Dataset 
+This dataset contains information on students’ sleep duration, quality of sleep, screen time, physical activity, and overall health, among other factors. Each row represents a student, with columns which include their age, gender, university year, sleep duration and timing (weekday and weekend start and end times), study hours, screen time, caffeine intake, physical activity levels, and self-reported sleep quality
+It includes a manageable number of records and is available in a clean CSV format.  It has consistent data types, making it easy to load and process using Python libraries like pandas or visualization tools such as Tableau or Power BI.
+
