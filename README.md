@@ -14,7 +14,7 @@ The project aims to analyze the sleep habits of university students and how it a
 Aside sleep patterns, the data also takes into account lifestyle choices like screen time, exercise, and study hours, and how these activities may affect their sleep. 
 Our goal is to find patterns that show how these factors are connected.
 
-
+# Sleep Patterns And Lifestyle Affect Academic Performance
 
 # Data Research Process: 
 The principal aim of our project is to evaluate the connection between the hours of sleep, sleep quality, and other daily activities included in the student schedule: screen time, hours studying, and physical activity.
