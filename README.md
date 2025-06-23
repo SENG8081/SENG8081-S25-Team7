@@ -47,6 +47,17 @@ This is a collection of the survey data of 985 students that covers information 
 - ### RPubs Sleep Study Dataset:
 This dataset contains structured variables of sleep in a clean form, which is appropriate in regression, correlation analyses, and visualizations.
 
+# Data Storage and Maintenance 
+In this project, the databases will be in a SQL server relational database to serve the purpose of creating efficient frameworks that make it easy to organize, integrate, and analyze. Every set of data, e.g., sleep patterns, answers to the questionnaire on insomnia, and other data in relation to academic activities, are stored in separate tables. Relationship between tables is established by common fields such as Student_ID.
+
+## Keeping information in SQL server will have the following benefits:
+
+- Relational structure: Allows SQL joins to be able to join data on different tables to get more insight.
+- Central accessibility: The data source is handled using a single control, without complicating update and queries.
+- Data cleaning and filtering: It is possible to clean and filter the data with SQL queries prior to analysis.
+- Export flexibility: It is quick and simple to export cleaned and combined datasets to work with Python, R, Power BI, or excel.
+- Security and control: SQL Server has features of built-in access control, and backup, versioning.
+
 
 
 
