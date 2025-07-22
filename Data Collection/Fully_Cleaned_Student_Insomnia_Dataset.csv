@@ -1,0 +1,997 @@
+Year,Gender,Sleep_Difficulty,Avg_Sleep_Hours,Wake_Frequency,Sleep_Quality,Concentration_Issue,Daytime_Fatigue,Missed_Classes,Sleep_Impact_Assignments,Device_Use_Before_Sleep,Caffeine_Use,Physical_Activity,Academic_Stress,Academic_Performance
+Graduate student,Male,Often,7-8 hours,Often,Good,Sometimes,Often,Often,Moderate impact,Often,Rarely,Sometimes,High stress,Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Sometimes,Sometimes,Major impact,Sometimes,Sometimes,Sometimes,Low stress,Good
+First year,Female,Sometimes,7-8 hours,Sometimes,Good,Often,Often,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Sometimes,Poor,Often,Often,Rarely,Minor impact,Sometimes,Sometimes,Every day,Extremely high stress,Excellent
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Sometimes,Sometimes,Moderate impact,Sometimes,Sometimes,Often,Low stress,Average
+Second year,Male,Often,7-8 hours,Often,Very good,Sometimes,Rarely,Sometimes,Minor impact,Sometimes,Often,Rarely,High stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Often,Good,Sometimes,Often,Sometimes,Minor impact,Rarely,Rarely,Never,No stress,Good
+Third year,Male,Often,More than 8 hours,Often,Good,Always,Sometimes,Often,Moderate impact,Often,Rarely,Rarely,Low stress,Good
+Third year,Male,Often,More than 8 hours,Often,Average,Sometimes,Rarely,Rarely,Moderate impact,Rarely,Rarely,Sometimes,Extremely high stress,Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Moderate impact,Often,Sometimes,Often,High stress,Below Average
+Second year,Female,Often,7-8 hours,Often,Poor,Often,Sometimes,Always,Major impact,Sometimes,Often,Sometimes,High stress,Average
+Third year,Male,Often,More than 8 hours,Often,Good,Often,Sometimes,Always,Major impact,Sometimes,Often,Sometimes,High stress,Average
+Second year,Male,Often,7-8 hours,Often,Poor,Rarely,Sometimes,Sometimes,Minor impact,Never,Rarely,Sometimes,Low stress,Average
+Second year,Female,Often,6-7 hours,Sometimes,Good,Often,Sometimes,Sometimes,Major impact,Sometimes,Often,Sometimes,High stress,Below Average
+Second year,Male,Sometimes,More than 8 hours,Often,Average,Always,Sometimes,Often,Moderate impact,Often,Rarely,Rarely,High stress,Good
+Graduate student,Male,Sometimes,4-5 hours,Sometimes,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+First year,Male,Often,More than 8 hours,Sometimes,Average,Rarely,Never,Sometimes,Moderate impact,Sometimes,Rarely,Often,Low stress,Good
+Third year,Male,Often,7-8 hours,Often,Average,Often,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Male,Sometimes,6-7 hours,Often,Good,Rarely,Sometimes,Sometimes,Moderate impact,Sometimes,Sometimes,Sometimes,High stress,Average
+Third year,Male,Often,More than 8 hours,Often,Good,Rarely,Sometimes,Rarely,Moderate impact,Sometimes,Sometimes,Sometimes,Low stress,Average
+First year,Male,Often,7-8 hours,Rarely,Average,Sometimes,Rarely,Sometimes,Moderate impact,Rarely,Sometimes,Sometimes,High stress,Excellent
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Rarely,Moderate impact,Often,Rarely,Sometimes,High stress,Below Average
+Graduate student,Male,Rarely,4-5 hours,Rarely,Average,Sometimes,Sometimes,Rarely,Minor impact,Rarely,Rarely,Rarely,Low stress,Average
+Second year,Male,Often,7-8 hours,Often,Good,Often,Sometimes,Often,Moderate impact,Often,Often,Sometimes,Extremely high stress,Good
+First year,Male,Often,7-8 hours,Sometimes,Good,Never,Sometimes,Rarely,Moderate impact,Rarely,Often,Often,High stress,Good
+Second year,Male,Rarely,6-7 hours,Rarely,Poor,Often,Often,Sometimes,No impact,Rarely,Rarely,Rarely,Low stress,Excellent
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Sometimes,Sometimes,Major impact,Sometimes,Often,Often,High stress,Average
+Second year,Female,Often,More than 8 hours,Often,Good,Sometimes,Often,Often,Minor impact,Often,Rarely,Often,High stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Sometimes,Good,Sometimes,Often,Often,Moderate impact,Often,Sometimes,Sometimes,High stress,Average
+Second year,Female,Often,7-8 hours,Often,Average,Often,Rarely,Often,Moderate impact,Sometimes,Often,Sometimes,High stress,Good
+Second year,Female,Sometimes,7-8 hours,Often,Good,Often,Sometimes,Often,Major impact,Rarely,Often,Often,Low stress,Average
+Third year,Male,Often,7-8 hours,Often,Good,Sometimes,Rarely,Sometimes,Moderate impact,Sometimes,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Sometimes,Average,Often,Sometimes,Sometimes,Minor impact,Often,Sometimes,Often,Low stress,Average
+Third year,Female,Often,7-8 hours,Sometimes,Average,Sometimes,Always,Often,Moderate impact,Often,Rarely,Often,Low stress,Good
+Second year,Male,Often,6-7 hours,Often,Poor,Often,Sometimes,Often,Moderate impact,Often,Often,Sometimes,High stress,Average
+Third year,Male,Sometimes,7-8 hours,Sometimes,Average,Sometimes,Often,Often,Moderate impact,Often,Often,Often,Low stress,Good
+Third year,Male,Often,More than 8 hours,Often,Good,Often,Rarely,Sometimes,Moderate impact,Often,Sometimes,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Female,Often,7-8 hours,Often,Good,Sometimes,Often,Sometimes,Moderate impact,Often,Sometimes,Often,High stress,Average
+Third year,Male,Often,6-7 hours,Sometimes,Average,Often,Often,Often,Major impact,Often,Often,Sometimes,Extremely high stress,Average
+Third year,Female,Often,7-8 hours,Sometimes,Average,Sometimes,Often,Rarely,Major impact,Sometimes,Sometimes,Sometimes,Low stress,Average
+Third year,Male,Often,More than 8 hours,Often,Average,Often,Sometimes,Often,Minor impact,Often,Rarely,Often,High stress,Average
+Third year,Female,Often,4-5 hours,Often,Average,Sometimes,Sometimes,Often,Moderate impact,Often,Often,Every day,Low stress,Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Often,Sometimes,Major impact,Often,Sometimes,Sometimes,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Sometimes,Often,Major impact,Often,Sometimes,Sometimes,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Rarely,Always,Moderate impact,Often,Sometimes,Often,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Sometimes,Often,Sometimes,Major impact,Often,Often,Sometimes,High stress,Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Sometimes,Sometimes,Always,Major impact,Sometimes,Often,Sometimes,High stress,Average
+Second year,Male,Often,More than 8 hours,Often,Good,Sometimes,Sometimes,Often,Major impact,Often,Often,Often,Low stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Good,Often,Rarely,Often,Major impact,Often,Sometimes,Often,High stress,Average
+Third year,Female,Often,7-8 hours,Often,Very good,Often,Always,Sometimes,Moderate impact,Rarely,Rarely,Often,Low stress,Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Sometimes,Often,Often,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Sometimes,7-8 hours,Often,Good,Often,Sometimes,Sometimes,Moderate impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,Less than 4 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Often,More than 8 hours,Often,Average,Often,Often,Sometimes,Moderate impact,Often,Sometimes,Often,Low stress,Below Average
+Third year,Male,Often,7-8 hours,Sometimes,Good,Often,Often,Often,Moderate impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Often,Average,Often,Often,Sometimes,Major impact,Sometimes,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Moderate impact,Sometimes,Sometimes,Sometimes,Low stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Average,Often,Often,Always,Major impact,Often,Sometimes,Often,Low stress,Below Average
+Second year,Male,Often,7-8 hours,Sometimes,Average,Often,Sometimes,Often,Major impact,Sometimes,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Sometimes,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Average,Often,Often,Sometimes,Major impact,Sometimes,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Often,Always,Often,Moderate impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Always,Often,Often,Moderate impact,Sometimes,Often,Often,High stress,Below Average
+Second year,Female,Often,7-8 hours,Often,Poor,Rarely,Sometimes,Rarely,Moderate impact,Sometimes,Sometimes,Sometimes,High stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Rarely,Poor,Rarely,Rarely,Rarely,Minor impact,Rarely,Rarely,Rarely,Low stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Good,Rarely,Rarely,Rarely,Moderate impact,Sometimes,Rarely,Rarely,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Sometimes,Sometimes,Rarely,Moderate impact,Sometimes,Sometimes,Sometimes,High stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Very good,Sometimes,Often,Sometimes,Major impact,Sometimes,Sometimes,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Sometimes,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Sometimes,Always,Sometimes,Major impact,Sometimes,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Sometimes,7-8 hours,Often,Average,Sometimes,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Often,Often,Moderate impact,Often,Often,Often,Low stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Rarely,Sometimes,Often,Moderate impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Never,4-5 hours,Sometimes,Good,Often,Sometimes,Rarely,Major impact,Rarely,Sometimes,Often,High stress,Below Average
+Third year,Female,Sometimes,6-7 hours,Often,Good,Rarely,Sometimes,Sometimes,Minor impact,Sometimes,Sometimes,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Rarely,Very good,Sometimes,Often,Often,Minor impact,Rarely,Sometimes,Often,High stress,Below Average
+Second year,Male,Often,More than 8 hours,Often,Average,Rarely,Sometimes,Rarely,Minor impact,Often,Sometimes,Sometimes,Low stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,Low stress,Below Average
+Graduate student,Male,Sometimes,7-8 hours,Often,Very good,Always,Often,Sometimes,Major impact,Sometimes,Sometimes,Sometimes,Low stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Average,Sometimes,Often,Often,Major impact,Rarely,Often,Sometimes,High stress,Below Average
+First year,Male,Often,7-8 hours,Often,Good,Rarely,Rarely,Never,Major impact,Often,Sometimes,Every day,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Often,Always,Often,Minor impact,Rarely,Sometimes,Sometimes,Low stress,Below Average
+Graduate student,Male,Often,6-7 hours,Often,Good,Often,Often,Always,Major impact,Sometimes,Often,Sometimes,No stress,Below Average
+Graduate student,Male,Often,6-7 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+First year,Male,Often,7-8 hours,Often,Good,Always,Sometimes,Often,Minor impact,Often,Rarely,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Sometimes,Always,Often,Minor impact,Sometimes,Often,Never,High stress,Below Average
+First year,Female,Often,More than 8 hours,Often,Poor,Sometimes,Sometimes,Rarely,Minor impact,Rarely,Rarely,Rarely,No stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Average,Sometimes,Often,Often,Major impact,Often,Often,Rarely,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Sometimes,Always,Often,Moderate impact,Often,Sometimes,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Sometimes,Major impact,Often,Sometimes,Every day,High stress,Below Average
+Third year,Female,Often,6-7 hours,Sometimes,Good,Sometimes,Often,Always,Moderate impact,Often,Often,Often,Low stress,Average
+Graduate student,Female,Often,6-7 hours,Often,Good,Sometimes,Often,Rarely,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Often,Sometimes,Always,Moderate impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Always,Often,Moderate impact,Sometimes,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Often,Always,Minor impact,Rarely,Rarely,Sometimes,No stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Often,Average,Never,Rarely,Sometimes,Minor impact,Sometimes,Rarely,Rarely,High stress,Average
+Graduate student,Male,Rarely,More than 8 hours,Often,Very good,Rarely,Rarely,Rarely,Moderate impact,Sometimes,Sometimes,Often,High stress,Below Average
+First year,Male,Often,7-8 hours,Often,Very good,Rarely,Never,Sometimes,Minor impact,Often,Sometimes,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Very good,Always,Sometimes,Sometimes,Moderate impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Female,Sometimes,7-8 hours,Often,Very good,Always,Sometimes,Sometimes,Moderate impact,Often,Often,Sometimes,Low stress,Below Average
+Graduate student,Male,Rarely,7-8 hours,Often,Very good,Sometimes,Often,Always,Major impact,Often,Often,Every day,Low stress,Below Average
+Graduate student,Female,Rarely,7-8 hours,Sometimes,Good,Often,Often,Rarely,Major impact,Often,Rarely,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Average,Often,Sometimes,Always,Major impact,Sometimes,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Average,Often,Often,Rarely,Minor impact,Rarely,Sometimes,Sometimes,High stress,Below Average
+Third year,Male,Sometimes,6-7 hours,Often,Very good,Rarely,Sometimes,Sometimes,Minor impact,Sometimes,Sometimes,Sometimes,Low stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Often,Very good,Sometimes,Often,Rarely,Major impact,Often,Sometimes,Often,High stress,Below Average
+Graduate student,Female,Sometimes,More than 8 hours,Often,Poor,Rarely,Sometimes,Often,Moderate impact,Often,Rarely,Rarely,Extremely high stress,Below Average
+Third year,Female,Sometimes,7-8 hours,Often,Very good,Often,Sometimes,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Sometimes,Good,Always,Rarely,Rarely,Major impact,Sometimes,Sometimes,Often,High stress,Below Average
+Third year,Female,Rarely,More than 8 hours,Often,Very good,Often,Sometimes,Often,Major impact,Often,Often,Often,No stress,Below Average
+Graduate student,Female,Sometimes,More than 8 hours,Often,Average,Rarely,Rarely,Often,Moderate impact,Sometimes,Sometimes,Sometimes,High stress,Good
+Third year,Female,Often,More than 8 hours,Often,Average,Often,Often,Often,Minor impact,Sometimes,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Sometimes,Often,Always,Moderate impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Average,Always,Sometimes,Always,Major impact,Often,Often,Often,Low stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Sometimes,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Always,Often,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Sometimes,Always,Moderate impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Often,Often,Moderate impact,Sometimes,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Every day,Low stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Always,Major impact,Sometimes,Sometimes,Often,No stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Sometimes,Sometimes,Often,Major impact,Sometimes,Often,Sometimes,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Always,Always,Sometimes,Major impact,Sometimes,Often,Every day,High stress,Below Average
+Second year,Female,Often,More than 8 hours,Often,Good,Often,Always,Always,Minor impact,Often,Often,Sometimes,High stress,Below Average
+Second year,Female,Never,7-8 hours,Often,Good,Often,Often,Sometimes,Minor impact,Often,Often,Sometimes,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Sometimes,Very good,Often,Always,Often,Moderate impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Always,Major impact,Sometimes,Often,Sometimes,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Often,Always,Sometimes,Minor impact,Sometimes,Sometimes,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Sometimes,Sometimes,Often,Major impact,Often,Often,Every day,Low stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Low stress,Below Average
+Graduate student,Female,Sometimes,7-8 hours,Often,Very good,Always,Always,Rarely,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Rarely,Sometimes,Often,Minor impact,Often,Often,Sometimes,High stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Sometimes,Every day,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Sometimes,Sometimes,Sometimes,Major impact,Often,Rarely,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Sometimes,Often,Sometimes,Major impact,Often,Often,Every day,Low stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Average,Sometimes,Often,Often,Moderate impact,Rarely,Sometimes,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Sometimes,Very good,Sometimes,Sometimes,Sometimes,Moderate impact,Sometimes,Rarely,Often,Low stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Moderate impact,Sometimes,Often,Sometimes,Low stress,Below Average
+Third year,Female,Sometimes,7-8 hours,Often,Good,Often,Rarely,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Average
+Third year,Male,Often,More than 8 hours,Often,Average,Often,Sometimes,Sometimes,Moderate impact,Rarely,Often,Sometimes,Low stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Good,Often,Often,Often,Moderate impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Often,Sometimes,Often,Moderate impact,Sometimes,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Sometimes,Sometimes,Often,Moderate impact,Often,Sometimes,Sometimes,High stress,Below Average
+Graduate student,Male,Sometimes,7-8 hours,Often,Good,Sometimes,Sometimes,Often,Major impact,Sometimes,Sometimes,Often,Low stress,Below Average
+Third year,Male,Often,7-8 hours,Sometimes,Very good,Often,Sometimes,Often,Moderate impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Often,Often,Moderate impact,Rarely,Sometimes,Sometimes,High stress,Below Average
+Graduate student,Female,Sometimes,7-8 hours,Often,Very good,Never,Rarely,Sometimes,Moderate impact,Often,Sometimes,Sometimes,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Sometimes,Often,Sometimes,Moderate impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Sometimes,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Sometimes,Rarely,Sometimes,Low stress,Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Sometimes,Often,Major impact,Rarely,Often,Often,Low stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Minor impact,Sometimes,Sometimes,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Good,Always,Always,Often,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Female,Often,More than 8 hours,Often,Good,Sometimes,Always,Sometimes,Moderate impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Sometimes,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Sometimes,Sometimes,Never,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Sometimes,Often,Often,Major impact,Often,Sometimes,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Often,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Often,Often,Sometimes,Moderate impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,7-8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Always,Often,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Sometimes,Always,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Sometimes,Major impact,Often,Often,Sometimes,Low stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Sometimes,Often,Often,Major impact,Rarely,Sometimes,Sometimes,Low stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Always,Always,Sometimes,Major impact,Often,Often,Rarely,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Sometimes,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,Low stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Sometimes,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Never,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Always,Always,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Always,Always,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Sometimes,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Always,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Sometimes,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Sometimes,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Sometimes,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Sometimes,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Sometimes,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Average,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Sometimes,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,6-7 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,6-7 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+First year,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Always,Always,Sometimes,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Sometimes,Often,Sometimes,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Always,Moderate impact,Often,Often,Often,Extremely high stress,Good
+Graduate student,Male,Often,7-8 hours,Often,Average,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Sometimes,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Very good,Often,Sometimes,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Sometimes,Often,Always,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Sometimes,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Male,Often,7-8 hours,Sometimes,Good,Sometimes,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Often,Sometimes,Moderate impact,Often,Often,Sometimes,High stress,Below Average
+Second year,Female,Often,7-8 hours,Often,Good,Often,Often,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,High stress,Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Always,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Sometimes,Good,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Sometimes,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Second year,Female,Often,More than 8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Often,Often,Moderate impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Average,Sometimes,Sometimes,Sometimes,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Female,Sometimes,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Poor,Sometimes,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Sometimes,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Sometimes,Very poor,Always,Always,Sometimes,Major impact,Sometimes,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+First year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Sometimes,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+First year,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Never,Major impact,Sometimes,Often,Sometimes,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Rarely,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Moderate impact,Often,Often,Rarely,High stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Rarely,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Rarely,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Excellent
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Rarely,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Moderate impact,Sometimes,Sometimes,Sometimes,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Never,Sometimes,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Sometimes,Often,Major impact,Often,Often,Often,High stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Sometimes,Very poor,Always,Often,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Moderate impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Sometimes,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Sometimes,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Moderate impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+First year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Sometimes,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Sometimes,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Moderate impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Sometimes,Sometimes,Sometimes,Moderate impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Always,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Rarely,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Sometimes,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Always,Sometimes,Often,Moderate impact,Often,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Sometimes,Sometimes,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Sometimes,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Rarely,Poor,Always,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Never,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Sometimes,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Sometimes,Sometimes,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Often,Sometimes,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Sometimes,Very poor,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Rarely,Poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Sometimes,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Sometimes,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Sometimes,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Moderate impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Often,6-7 hours,Sometimes,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Major impact,Sometimes,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Sometimes,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Often,Always,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Sometimes,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Sometimes,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Sometimes,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,6-7 hours,Sometimes,Very poor,Sometimes,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Poor,Often,Sometimes,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Often,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Excellent
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Sometimes,Very poor,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Sometimes,Often,Moderate impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Sometimes,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,6-7 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Sometimes,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Sometimes,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+First year,Female,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Moderate impact,Often,Sometimes,Often,High stress,Below Average
+Second year,Female,Often,7-8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Sometimes,Very poor,Often,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Very poor,Often,Often,Often,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Sometimes,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Never,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Minor impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+First year,Female,Often,More than 8 hours,Often,Very poor,Often,Sometimes,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Often,Often,Sometimes,Major impact,Sometimes,Sometimes,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,6-7 hours,Sometimes,Very poor,Often,Often,Always,Major impact,Sometimes,Often,Every day,Extremely high stress,Average
+First year,Female,Often,Less than 4 hours,Often,Very poor,Often,Sometimes,Often,Major impact,Sometimes,Sometimes,Rarely,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Sometimes,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Sometimes,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Sometimes,Often,Moderate impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Sometimes,Always,Always,Major impact,Sometimes,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Sometimes,Poor,Always,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Never,6-7 hours,Never,Good,Often,Sometimes,Never,Moderate impact,Often,Never,Often,High stress,Excellent
+Third year,Female,Often,More than 8 hours,Often,Very poor,Often,Rarely,Rarely,Minor impact,Sometimes,Sometimes,Rarely,High stress,Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Sometimes,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Moderate impact,Often,Often,Often,High stress,Good
+Second year,Female,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Poor,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Sometimes,Sometimes,Sometimes,Moderate impact,Sometimes,Sometimes,Sometimes,Low stress,Good
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Sometimes,Moderate impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Rarely,4-5 hours,Rarely,Very poor,Rarely,Rarely,Rarely,Minor impact,Rarely,Sometimes,Often,Low stress,Good
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Never,Less than 4 hours,Never,Good,Never,Rarely,Sometimes,Minor impact,Rarely,Never,Rarely,Low stress,Good
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Sometimes,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Poor,Always,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+First year,Female,Sometimes,More than 8 hours,Sometimes,Poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Average
+Third year,Female,Sometimes,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Poor,Always,Sometimes,Often,Moderate impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Poor,Always,Often,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Sometimes,Always,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Male,Often,More than 8 hours,Often,Very poor,Sometimes,Always,Always,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Poor,Sometimes,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Sometimes,More than 8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Rarely,4-5 hours,Rarely,Good,Never,Often,Sometimes,Moderate impact,Sometimes,Often,Often,High stress,Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Never,Less than 4 hours,Never,Good,Sometimes,Rarely,Rarely,Minor impact,Rarely,Rarely,Sometimes,High stress,Good
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Third year,Male,Sometimes,More than 8 hours,Often,Poor,Always,Always,Often,Major impact,Sometimes,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Sometimes,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Rarely,4-5 hours,Never,Very good,Never,Sometimes,Often,Moderate impact,Sometimes,Sometimes,Rarely,High stress,Average
+Second year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Sometimes,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Sometimes,Rarely,Major impact,Sometimes,Often,Rarely,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Sometimes,More than 8 hours,Often,Very poor,Sometimes,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Sometimes,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Sometimes,Often,Major impact,Often,Often,Sometimes,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Always,Often,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Sometimes,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Often,Poor,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Sometimes,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Male,Often,More than 8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Sometimes,Sometimes,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Sometimes,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Always,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Sometimes,More than 8 hours,Often,Very poor,Often,Often,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Sometimes,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Sometimes,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Sometimes,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Sometimes,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Always,Often,Often,Moderate impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Sometimes,Very poor,Sometimes,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Average,Often,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Female,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Sometimes,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Female,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Sometimes,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Sometimes,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Average,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Sometimes,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Average
+Third year,Male,Often,More than 8 hours,Often,Average,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Often,Always,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Always,Always,Moderate impact,Often,Often,Often,High stress,Average
+Third year,Female,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Sometimes,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Sometimes,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Sometimes,Moderate impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Sometimes,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Sometimes,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Often,Sometimes,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Sometimes,Often,Moderate impact,Often,Sometimes,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Often,Sometimes,Sometimes,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Sometimes,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Always,Often,Often,Major impact,Sometimes,Often,Often,Extremely high stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Sometimes,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very poor,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Sometimes,Very poor,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Poor,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very poor,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very poor,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very poor,Always,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Poor,Always,Always,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Second year,Female,Often,More than 8 hours,Often,Very poor,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Sometimes,Poor,Always,Often,Always,Moderate impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Sometimes,6-7 hours,Rarely,Average,Sometimes,Rarely,Sometimes,Moderate impact,Sometimes,Often,Sometimes,High stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Good,Sometimes,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Rarely,7-8 hours,Never,Poor,Rarely,Rarely,Rarely,Minor impact,Rarely,Rarely,Rarely,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Sometimes,6-7 hours,Sometimes,Poor,Rarely,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Sometimes,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Often,6-7 hours,Often,Average,Rarely,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Often,Sometimes,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Sometimes,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Sometimes,6-7 hours,Sometimes,Average,Rarely,Never,Rarely,Moderate impact,Often,Sometimes,Sometimes,High stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Good,Always,Often,Always,Major impact,Often,Sometimes,Every day,Extremely high stress,Below Average
+Second year,Female,Sometimes,6-7 hours,Sometimes,Average,Sometimes,Sometimes,Sometimes,Major impact,Sometimes,Sometimes,Sometimes,Low stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Sometimes,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Sometimes,6-7 hours,Sometimes,Average,Sometimes,Sometimes,Sometimes,Moderate impact,Never,Rarely,Sometimes,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Very good,Always,Sometimes,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Average,Always,Often,Often,Major impact,Often,Often,Rarely,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Poor,Always,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Male,Often,More than 8 hours,Sometimes,Average,Rarely,Rarely,Always,Major impact,Rarely,Sometimes,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,6-7 hours,Often,Very good,Often,Often,Often,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,6-7 hours,Rarely,Good,Often,Sometimes,Sometimes,Major impact,Often,Often,Often,High stress,Below Average
+Third year,Male,Sometimes,7-8 hours,Often,Very good,Sometimes,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Graduate student,Male,Rarely,6-7 hours,Rarely,Very good,Always,Sometimes,Sometimes,Minor impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,More than 8 hours,Often,Very good,Often,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Sometimes,7-8 hours,Sometimes,Average,Sometimes,Sometimes,Rarely,Moderate impact,Sometimes,Often,Often,High stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Good,Often,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Sometimes,6-7 hours,Sometimes,Poor,Sometimes,Rarely,Sometimes,Moderate impact,Sometimes,Sometimes,Sometimes,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Good,Often,Often,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Sometimes,4-5 hours,Sometimes,Average,Always,Often,Often,Moderate impact,Often,Sometimes,Sometimes,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Average,Always,Sometimes,Often,Minor impact,Rarely,Rarely,Sometimes,High stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Sometimes,Often,Often,Major impact,Often,Sometimes,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,4-5 hours,Sometimes,Average,Sometimes,Often,Sometimes,Moderate impact,Often,Sometimes,Rarely,Low stress,Below Average
+Graduate student,Female,Sometimes,4-5 hours,Sometimes,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,6-7 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,4-5 hours,Rarely,Poor,Never,Never,Sometimes,Moderate impact,Sometimes,Often,Sometimes,Low stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Very good,Often,Often,Always,Moderate impact,Often,Often,Every day,Extremely high stress,Below Average
+First year,Male,Sometimes,6-7 hours,Rarely,Good,Often,Sometimes,Often,Major impact,Sometimes,Sometimes,Sometimes,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Sometimes,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Often,6-7 hours,Often,Average,Sometimes,Sometimes,Often,Moderate impact,Rarely,Often,Rarely,High stress,Good
+Third year,Female,Often,7-8 hours,Sometimes,Very good,Sometimes,Sometimes,Sometimes,Moderate impact,Rarely,Sometimes,Sometimes,Extremely high stress,Below Average
+Graduate student,Male,Rarely,7-8 hours,Sometimes,Very poor,Sometimes,Sometimes,Sometimes,Minor impact,Sometimes,Sometimes,Rarely,No stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Female,Sometimes,6-7 hours,Often,Good,Sometimes,Sometimes,Often,Moderate impact,Sometimes,Rarely,Rarely,Low stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Sometimes,4-5 hours,Rarely,Good,Sometimes,Sometimes,Sometimes,Moderate impact,Often,Rarely,Often,Extremely high stress,Below Average
+First year,Female,Often,More than 8 hours,Often,Poor,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Sometimes,6-7 hours,Often,Very good,Always,Always,Always,Moderate impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+First year,Female,Often,7-8 hours,Often,Poor,Always,Sometimes,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Rarely,6-7 hours,Sometimes,Average,Sometimes,Sometimes,Sometimes,Moderate impact,Sometimes,Often,Sometimes,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Sometimes,4-5 hours,Rarely,Poor,Often,Sometimes,Rarely,Moderate impact,Sometimes,Often,Sometimes,Low stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Often,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Sometimes,7-8 hours,Sometimes,Average,Sometimes,Rarely,Sometimes,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,6-7 hours,Often,Good,Often,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Sometimes,6-7 hours,Rarely,Very poor,Never,Sometimes,Rarely,Moderate impact,Rarely,Sometimes,Never,High stress,Below Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Sometimes,6-7 hours,Never,Poor,Sometimes,Sometimes,Rarely,Moderate impact,Sometimes,Sometimes,Sometimes,Low stress,Good
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Sometimes,7-8 hours,Rarely,Poor,Never,Never,Often,Moderate impact,Rarely,Rarely,Sometimes,High stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Average
+Second year,Male,Never,6-7 hours,Rarely,Good,Always,Never,Sometimes,Moderate impact,Sometimes,Never,Rarely,Low stress,Below Average
+Second year,Female,Often,7-8 hours,Never,Very poor,Never,Never,Never,No impact,Never,Never,Never,No stress,Good
+Second year,Female,Often,More than 8 hours,Often,Very good,Sometimes,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Sometimes,4-5 hours,Never,Very poor,Sometimes,Rarely,Rarely,Minor impact,Often,Never,Sometimes,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Very good,Rarely,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Often,7-8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Rarely,Never,High stress,Average
+Graduate student,Female,Sometimes,7-8 hours,Often,Very good,Sometimes,Sometimes,Sometimes,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Never,Less than 4 hours,Often,Good,Sometimes,Never,Never,Minor impact,Sometimes,Sometimes,Sometimes,Low stress,Good
+First year,Female,Sometimes,Less than 4 hours,Never,Poor,Never,Rarely,Always,Moderate impact,Never,Sometimes,Sometimes,High stress,Average
+Graduate student,Female,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Sometimes,Extremely high stress,Below Average
+Graduate student,Female,Sometimes,More than 8 hours,Sometimes,Average,Sometimes,Rarely,Often,Moderate impact,Sometimes,Often,Often,High stress,Average
+Third year,Female,Often,7-8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Every day,High stress,Below Average
+Second year,Female,Sometimes,Less than 4 hours,Rarely,Poor,Rarely,Rarely,Rarely,Moderate impact,Never,Rarely,Never,Low stress,Average
+Third year,Female,Sometimes,4-5 hours,Never,Poor,Rarely,Never,Never,Moderate impact,Rarely,Sometimes,Sometimes,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Sometimes,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,4-5 hours,Never,Poor,Never,Rarely,Sometimes,Minor impact,Sometimes,Sometimes,Often,Low stress,Average
+Third year,Male,Often,7-8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Average
+Third year,Male,Sometimes,6-7 hours,Rarely,Average,Rarely,Sometimes,Rarely,No impact,Rarely,Rarely,Often,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,High stress,Below Average
+Second year,Female,Often,More than 8 hours,Sometimes,Poor,Rarely,Never,Rarely,No impact,Sometimes,Rarely,Sometimes,High stress,Average
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Always,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Sometimes,Poor,Never,Never,Never,Minor impact,Never,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Average
+Third year,Female,Sometimes,6-7 hours,Rarely,Poor,Never,Never,Sometimes,Minor impact,Sometimes,Rarely,Rarely,High stress,Average
+Third year,Female,Often,7-8 hours,Rarely,Good,Sometimes,Rarely,Sometimes,Moderate impact,Rarely,Rarely,Never,No stress,Excellent
+Third year,Male,Sometimes,7-8 hours,Often,Good,Often,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Good,Often,Often,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Female,Often,4-5 hours,Rarely,Very poor,Sometimes,Never,Rarely,Minor impact,Rarely,Often,Sometimes,High stress,Good
+Graduate student,Female,Often,6-7 hours,Often,Good,Often,Often,Sometimes,Moderate impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Male,Rarely,More than 8 hours,Often,Very good,Often,Sometimes,Sometimes,Minor impact,Never,Rarely,Sometimes,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Male,Rarely,6-7 hours,Never,Good,Sometimes,Sometimes,Rarely,Moderate impact,Rarely,Sometimes,Sometimes,Low stress,Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Sometimes,Often,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Sometimes,4-5 hours,Never,Very poor,Never,Rarely,Never,Moderate impact,Sometimes,Rarely,Rarely,High stress,Average
+Third year,Female,Often,7-8 hours,Often,Very good,Often,Always,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Good,Always,Often,Often,Major impact,Often,Often,Often,High stress,Average
+Graduate student,Female,Sometimes,4-5 hours,Rarely,Average,Sometimes,Sometimes,Rarely,Major impact,Often,Rarely,Sometimes,High stress,Good
+First year,Male,Sometimes,Less than 4 hours,Rarely,Good,Often,Never,Never,No impact,Never,Rarely,Every day,High stress,Below Average
+Graduate student,Female,Rarely,6-7 hours,Never,Poor,Sometimes,Rarely,Rarely,No impact,Never,Rarely,Sometimes,Extremely high stress,Good
+First year,Male,Rarely,6-7 hours,Sometimes,Very good,Never,Never,Rarely,Major impact,Never,Never,Sometimes,High stress,Excellent
+Third year,Female,Sometimes,Less than 4 hours,Often,Good,Always,Always,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Sometimes,Very poor,Never,Never,Rarely,Moderate impact,Never,Sometimes,Rarely,Extremely high stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Graduate student,Female,Rarely,Less than 4 hours,Never,Poor,Never,Never,Rarely,No impact,Never,Rarely,Rarely,No stress,Excellent
+Third year,Male,Often,More than 8 hours,Often,Very good,Always,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Graduate student,Female,Never,4-5 hours,Sometimes,Very good,Often,Sometimes,Sometimes,Minor impact,Rarely,Never,Never,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Graduate student,Female,Sometimes,4-5 hours,Sometimes,Average,Sometimes,Often,Rarely,Moderate impact,Sometimes,Sometimes,Rarely,Extremely high stress,Below Average
+Third year,Male,Often,More than 8 hours,Often,Average,Often,Always,Often,Moderate impact,Often,Often,Every day,High stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Good,Often,Sometimes,Rarely,Major impact,Rarely,Rarely,Sometimes,High stress,Good
+Second year,Male,Rarely,More than 8 hours,Often,Good,Always,Often,Always,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Female,Often,7-8 hours,Sometimes,Good,Rarely,Never,Sometimes,Minor impact,Rarely,Sometimes,Sometimes,Low stress,Below Average
+Second year,Male,Sometimes,6-7 hours,Sometimes,Good,Rarely,Rarely,Often,Major impact,Often,Often,Sometimes,Low stress,Excellent
+Graduate student,Female,Sometimes,More than 8 hours,Often,Very good,Sometimes,Often,Often,Major impact,Sometimes,Often,Often,High stress,Below Average
+Graduate student,Male,Often,7-8 hours,Often,Very good,Often,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Never,4-5 hours,Never,Poor,Never,Never,Never,Minor impact,Rarely,Never,Often,Extremely high stress,Good
+Graduate student,Female,Often,4-5 hours,Rarely,Poor,Sometimes,Never,Never,No impact,Never,Rarely,Rarely,No stress,Good
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Often,4-5 hours,Never,Very poor,Rarely,Never,Sometimes,No impact,Rarely,Sometimes,Rarely,High stress,Below Average
+Graduate student,Male,Often,More than 8 hours,Often,Very good,Often,Always,Always,Major impact,Often,Sometimes,Every day,Extremely high stress,Average
+Third year,Female,Sometimes,4-5 hours,Rarely,Poor,Rarely,Never,Rarely,Minor impact,Sometimes,Rarely,Sometimes,Low stress,Excellent
+Second year,Female,Rarely,4-5 hours,Rarely,Very poor,Sometimes,Never,Never,Minor impact,Never,Rarely,Often,Extremely high stress,Average
+Third year,Female,Often,7-8 hours,Rarely,Good,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Sometimes,Often,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Female,Sometimes,More than 8 hours,Often,Average,Never,Never,Rarely,Minor impact,Rarely,Often,Every day,Low stress,Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Often,Often,Often,Moderate impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Rarely,6-7 hours,Sometimes,Average,Rarely,Sometimes,Rarely,No impact,Sometimes,Often,Often,Extremely high stress,Below Average
+Second year,Male,Often,7-8 hours,Sometimes,Average,Always,Always,Always,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Second year,Male,Often,6-7 hours,Rarely,Very poor,Never,Rarely,Sometimes,Moderate impact,Rarely,Never,Sometimes,Low stress,Below Average
+Third year,Male,Often,7-8 hours,Often,Very good,Often,Sometimes,Often,Major impact,Often,Often,Every day,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Sometimes,Average,Rarely,Sometimes,Often,Minor impact,Often,Rarely,Sometimes,Extremely high stress,Below Average
+Third year,Female,Often,7-8 hours,Often,Good,Often,Always,Often,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Female,Sometimes,6-7 hours,Often,Average,Sometimes,Rarely,Sometimes,Moderate impact,Often,Rarely,Sometimes,High stress,Average
+Graduate student,Female,Often,7-8 hours,Often,Very good,Often,Sometimes,Often,Major impact,Often,Often,Often,Extremely high stress,Below Average
+Second year,Female,Often,6-7 hours,Rarely,Good,Sometimes,Sometimes,Sometimes,Moderate impact,Sometimes,Sometimes,Sometimes,High stress,Average
+Third year,Female,Often,More than 8 hours,Often,Very good,Sometimes,Often,Often,Major impact,Often,Often,Often,High stress,Below Average
+Second year,Male,Often,4-5 hours,Never,Very poor,Rarely,Rarely,Rarely,No impact,Never,Rarely,Sometimes,Extremely high stress,Below Average
+Graduate student,Female,Often,More than 8 hours,Often,Very good,Often,Always,Sometimes,Major impact,Often,Often,Often,Extremely high stress,Average
+Graduate student,Female,Rarely,6-7 hours,Sometimes,Average,Rarely,Rarely,Sometimes,Major impact,Often,Never,Rarely,Low stress,Good
+Third year,Female,Never,More than 8 hours,Sometimes,Average,Rarely,Rarely,Rarely,No impact,Never,Often,Rarely,High stress,Average
+Third year,Male,Sometimes,Less than 4 hours,Never,Average,Never,Rarely,Often,Major impact,Sometimes,Rarely,Every day,Extremely high stress,Excellent
+Third year,Female,Often,More than 8 hours,Often,Good,Rarely,Sometimes,Always,Major impact,Sometimes,Sometimes,Every day,Extremely high stress,Good
