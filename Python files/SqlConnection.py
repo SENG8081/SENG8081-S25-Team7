@@ -45,4 +45,4 @@ for table_name, url in csv_files.items():
 cursor.close()
 conn.close()
 
-print(" All CSV files uploaded to SQL Server successfully!")
+print(" All CSV files uploaded to Microsoft SQL Server successfully!")
