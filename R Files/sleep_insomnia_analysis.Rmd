@@ -1,0 +1,346 @@
+---
+title: "sleep_insomnia_analysis"
+date: "2025-07-13"
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+```{r}
+
+# Required libraries
+library(shiny)
+library(ggplot2)
+library(dplyr)
+library(scales)
+library(gridExtra)
+
+# Load datasets
+insomnia_data <- read.csv("Cleaned/Cleaned_Student_Insomnia_Dataset.csv")
+sleepstudy_data <- read.csv("Cleaned/Cleaned_SleepStudy.csv")
+
+
+
+
+
+
+
+
+
+
+# Label gender for Sleep Study
+sleepstudy_data$Gender <- factor(sleepstudy_data$Gender, labels = c("Female", "Male"))
+
+# Define UI
+ui <- navbarPage("Sleep Analysis Dashboard",
+
+  tabPanel("Insomnia Dataset",
+    sidebarLayout(
+      sidebarPanel(
+        h4("Download Visualizations"),
+        downloadButton("downloadPlot1", "Sleep Quality"),
+        downloadButton("downloadPlot2", "Sleep Hours"),
+        downloadButton("downloadPlot3", "Caffeine Use")
+      ),
+      mainPanel(
+        h3("Academic Performance vs Lifestyle Factors"),
+        tabsetPanel(
+          tabPanel("Sleep Quality", plotOutput("insom_plot1")),
+          tabPanel("Avg Sleep Hours", plotOutput("insom_plot2")),
+          tabPanel("Caffeine Use", plotOutput("insom_plot3")),
+          tabPanel("Device Usage", plotOutput("insom_plot4")),
+          tabPanel("Academic Stress", plotOutput("insom_plot5")),
+          tabPanel("Gender-Based", 
+            plotOutput("insom_gender_sleep_quality"),
+            plotOutput("insom_gender_sleep_hours")
+          )
+        )
+      )
+    )
+  ),
+
+  tabPanel("Sleep Study Dataset",
+    sidebarLayout(
+      sidebarPanel(
+        h4("Download Visualizations"),
+        downloadButton("downloadSleepPlot1", "GPA vs Sleep Quality"),
+        downloadButton("downloadSleepPlot2", "GPA vs Sleep Hours")
+      ),
+      mainPanel(
+        h3("GPA vs Lifestyle and Sleep Patterns"),
+        tabsetPanel(
+          tabPanel("Poor Sleep Quality", plotOutput("sleep_plot1")),
+          tabPanel("Avg Sleep Hours", plotOutput("sleep_plot2")),
+          tabPanel("Alcohol Use", plotOutput("sleep_plot3")),
+          tabPanel("Stress", plotOutput("sleep_plot4")),
+          tabPanel("Gender-Based",
+            plotOutput("sleep_gender_quality"),
+            plotOutput("sleep_gender_sleep")
+          )
+        )
+      )
+    )
+  )
+)
+
+# Define Server
+server <- function(input, output) {
+
+  # ---------- Insomnia Dataset Plots ----------
+  output$insom_plot1 <- renderPlot({
+    ggplot(insomnia_data, aes(x = Sleep_Quality, fill = Academic_Performance)) +
+      geom_bar(position = "fill") +
+      labs(title = "Academic Performance vs Sleep Quality",
+           y = "Proportion", x = "Sleep Quality") +
+      scale_y_continuous(labels = percent) +
+      theme_minimal()
+  })
+
+  output$insom_plot2 <- renderPlot({
+    ggplot(insomnia_data, aes(x = Academic_Performance, y = Avg_Sleep_Hours, color = Academic_Performance)) +
+      geom_jitter(width = 0.2, alpha = 0.6, size = 2) +
+      labs(title = "Academic Performance vs Average Sleep Hours",
+           x = "Academic Performance", y = "Average Sleep Hours") +
+      theme_minimal()
+  })
+
+  output$insom_plot3 <- renderPlot({
+    ggplot(insomnia_data, aes(x = Caffeine_Use, fill = Academic_Performance)) +
+      geom_bar(position = "fill") +
+      labs(title = "Academic Performance vs Caffeine Use",
+           y = "Proportion", x = "Caffeine Use") +
+      scale_y_continuous(labels = percent) +
+      theme_minimal()
+  })
+
+  output$insom_plot4 <- renderPlot({
+    ggplot(insomnia_data, aes(x = Device_Use_Before_Sleep, fill = Academic_Performance)) +
+      geom_bar(position = "fill") +
+      labs(title = "Academic Performance vs Device Use Before Sleep",
+           y = "Proportion", x = "Device Use") +
+      scale_y_continuous(labels = percent) +
+      theme_minimal()
+  })
+
+  output$insom_plot5 <- renderPlot({
+    ggplot(insomnia_data, aes(x = Academic_Stress, fill = Academic_Performance)) +
+      geom_bar(position = "fill") +
+      labs(title = "Academic Performance vs Academic Stress",
+           y = "Proportion", x = "Academic Stress Level") +
+      scale_y_continuous(labels = percent) +
+      theme_minimal()
+  })
+
+  output$insom_gender_sleep_quality <- renderPlot({
+    ggplot(insomnia_data, aes(x = Sleep_Quality, fill = Academic_Performance)) +
+      geom_bar(position = "fill") +
+      facet_wrap(~Gender) +
+      labs(title = "Academic Performance vs Sleep Quality by Gender",
+           y = "Proportion", x = "Sleep Quality") +
+      scale_y_continuous(labels = percent) +
+      theme_minimal()
+  })
+
+  output$insom_gender_sleep_hours <- renderPlot({
+    ggplot(insomnia_data, aes(x = Academic_Performance, y = Avg_Sleep_Hours, color = Academic_Performance)) +
+      geom_jitter(width = 0.2, alpha = 0.6, size = 2) +
+      facet_wrap(~Gender) +
+      labs(title = "Academic Performance vs Sleep Hours by Gender",
+           x = "Academic Performance", y = "Avg Sleep Hours") +
+      theme_minimal()
+  })
+
+  # ---------- Sleep Study Dataset ----------
+  output$sleep_plot1 <- renderPlot({
+    ggplot(sleepstudy_data, aes(x = PoorSleepQuality, y = GPA)) +
+      geom_boxplot(aes(fill = as.factor(PoorSleepQuality))) +
+      labs(title = "GPA vs Poor Sleep Quality",
+           x = "Poor Sleep Quality", y = "GPA") +
+      theme_minimal()
+  })
+
+  output$sleep_plot2 <- renderPlot({
+    ggplot(sleepstudy_data, aes(x = AverageSleep, y = GPA)) +
+      geom_point(aes(color = Gender)) +
+      geom_smooth(method = "lm", se = FALSE) +
+      labs(title = "GPA vs Average Sleep Hours",
+           x = "Average Sleep Hours", y = "GPA") +
+      theme_minimal()
+  })
+
+  output$sleep_plot3 <- renderPlot({
+    ggplot(sleepstudy_data, aes(x = AlcoholUse, y = GPA)) +
+      geom_boxplot(aes(fill = as.factor(AlcoholUse))) +
+      labs(title = "GPA vs Alcohol Use",
+           x = "Alcohol Use", y = "GPA") +
+      theme_minimal()
+  })
+
+  output$sleep_plot4 <- renderPlot({
+    ggplot(sleepstudy_data, aes(x = Stress, y = GPA)) +
+      geom_jitter(aes(color = Gender), width = 0.2) +
+      geom_smooth(method = "lm", se = FALSE, color = "black") +
+      labs(title = "GPA vs Stress Level",
+           x = "Stress Level", y = "GPA") +
+      theme_minimal()
+  })
+
+  output$sleep_gender_quality <- renderPlot({
+    ggplot(sleepstudy_data, aes(x = PoorSleepQuality, y = GPA)) +
+      geom_boxplot(aes(fill = as.factor(PoorSleepQuality))) +
+      facet_wrap(~Gender) +
+      labs(title = "GPA vs Poor Sleep Quality by Gender",
+           x = "Poor Sleep Quality", y = "GPA") +
+      theme_minimal()
+  })
+
+  output$sleep_gender_sleep <- renderPlot({
+    ggplot(sleepstudy_data, aes(x = AverageSleep, y = GPA, color = Gender)) +
+      geom_point() +
+      geom_smooth(method = "lm", se = FALSE) +
+      facet_wrap(~Gender) +
+      labs(title = "GPA vs Average Sleep Hours by Gender",
+           x = "Average Sleep Hours", y = "GPA") +
+      theme_minimal()
+  })
+
+  # ---------- Download Handlers ----------
+  output$downloadPlot1 <- downloadHandler(
+    filename = function() {"plot_sleep_quality.png"},
+    content = function(file) {
+      ggsave(file, plot = last_plot(), width = 8, height = 6)
+    })
+
+  output$downloadPlot2 <- downloadHandler(
+    filename = function() {"plot_sleep_hours.png"},
+    content = function(file) {
+      ggsave(file, plot = last_plot(), width = 8, height = 6)
+    })
+
+  output$downloadPlot3 <- downloadHandler(
+    filename = function() {"plot_caffeine_use.png"},
+    content = function(file) {
+      ggsave(file, plot = last_plot(), width = 8, height = 6)
+    })
+
+  output$downloadSleepPlot1 <- downloadHandler(
+    filename = function() {"sleepstudy_quality.png"},
+    content = function(file) {
+      ggsave(file, plot = last_plot(), width = 8, height = 6)
+    })
+
+  output$downloadSleepPlot2 <- downloadHandler(
+    filename = function() {"sleepstudy_hours.png"},
+    content = function(file) {
+      ggsave(file, plot = last_plot(), width = 8, height = 6)
+    })
+}
+
+# Run the app
+shinyApp(ui = ui, server = server)
+
+```
+
+
+
+
+
+
+# MODEL DESIGN
+```{r}
+
+# BUILDING A PREDICTION MODEL 
+
+# Model Building to predict GPA
+# Use: AverageSleep (Hours), Drinks, StressScore
+
+
+#set sampling rate
+sampling_rate = 0.80
+
+# set seed
+set.seed(1122)
+
+
+# number of rows in the dataset
+num_rows <- nrow(sleepstudy_data)
+
+
+# select data for training set (80% of data)
+training_rows <- sample(1:num_rows, sampling_rate*num_rows, replace=FALSE)
+
+
+# Create the training and test datasets
+training_data <- subset(sleepstudy_data[training_rows, ])
+test_data <- subset(sleepstudy_data[-c(training_rows), ])
+
+
+summary(training_data)
+summary(test_data)
+
+str(training_data)
+str(test_data)
+
+# Numeric correlation matrix (Spearman)
+cor(training_data[, c("GPA", "AverageSleep", "Drinks", "StressScore")], method = "spearman")
+
+
+
+
+
+# Building Model with 3 predictors: Average Sleep, Drinks(Alcohol usage), Stress Score
+
+mlr_model <- lm(GPA ~ AverageSleep + Drinks + StressScore, data = training_data)
+summary(mlr)
+
+par(mfrow = c(2, 2))
+plot(mlr_model)
+
+# Predict GPA on the test dataset using the trained model
+predicted_gpa <- predict(mlr_model, newdata = test_data)
+
+# View the predicted GPA values
+print(predicted_gpa)
+
+# Optionally: Combine predictions with actual values to compare
+results <- data.frame(
+  Actual_GPA = test_data$GPA,
+  Predicted_GPA = predicted_gpa
+)
+
+# View comparison
+print(head(results))
+#view(results)
+
+
+
+
+
+# Now, We Build Model with Backward Selection
+mlr_model_backward <- step(mlr_model, direction = "backward")
+summary(mlr_model_backward)
+
+
+#Predict GPA based on the backward selection on the model
+predicted_gpa_backward <- predict(mlr_model_backward, newdata = test_data)
+
+# View the predicted GPA values
+print(predicted_gpa_backward)
+
+# Combine predictions with actual values to compare
+results_backward <- data.frame(
+  Actual_GPA = test_data$GPA,
+  Predicted_GPA = predicted_gpa
+)
+
+view(results_backward)
+
+
+```
