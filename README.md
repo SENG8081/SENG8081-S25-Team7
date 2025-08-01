@@ -57,7 +57,7 @@ In this project, the databases will be in a SQL server relational database to ma
 - Relational structure: Allows SQL joins to be able to join data on different tables to get more insight.
 - Central accessibility: The data source is handled using a single control, without complicating update and queries.
 - Data cleaning and filtering: It is possible to clean and filter the data with SQL queries prior to analysis.
-- Export flexibility: It is quick and simple to export cleaned and combined datasets to work with Python, R, Power BI, or excel.
+- Export flexibility: Integrated and cleaned datasets can easily be exported to external analysis tools like Python, R (e.g., in using Shiny dashboards and           regression models), Excel, or can even be used to create your custom visualizations, e.g., heatmaps, correlation plots, and bar graphs.
 - Security and control: SQL Server has features of built-in access control, and backup, versioning.
 
 
